@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Bhuwan Khatiwada.</h1>
-# 💫 About Me:
+
+## 💫 About Me:
 🌱 I’m currently learning Machine Learning, Deep Learning, Computer Vision And Natural Language Processing.<br><br>📝 I regularly write articles on: https://medium.com/@bhuwankhatiwada57<br><br>💬 Ask me about Computer Vision, Machine Learning and other related topics.<br><br>📫 Reach me at: bhuwankhatiwada57@gmail.com<br><br>⚡ Fun fact: POSSIBLY CRAZY!!!
 
 
